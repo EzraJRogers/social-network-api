@@ -1,0 +1,32 @@
+
+# Social Network API
+
+## Description
+Use MONGODB to navigate a backend. Also allows create, read, update, and delete.
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+Run commands npm i && node server.js
+
+## Usage
+Use a tool like Insomnia to navigate and edit the backend database.
+
+## License
+undefined
+
+## Contributing
+Ezra J Rogers
+
+## Tests
+No test instructions
+
+## Questions
+For additional questions, contact [undefined](https://github.com/undefined) or email [undefined](mailto:undefined).
